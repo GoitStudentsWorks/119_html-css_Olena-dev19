@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/flexflow/",
+    "build": "vite build --base=/119_html-css_Olena-dev19/",
     "preview": "vite preview"
   },
   "devDependencies": {
